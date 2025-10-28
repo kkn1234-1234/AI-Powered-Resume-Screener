@@ -93,13 +93,15 @@ npm start
 
 ## 📁 Project Structure
 
-AI-Powered-Resume-Screener/
-├─ app.py
-├─ uploads/
-├─ resume-screener-frontend/
-│ └─ src/App.js
-└─ README.md
+## 📁 Project Structure
 
+AI-Powered-Resume-Screener/
+├── app.py
+├── uploads/
+├── resume-screener-frontend/
+│   └── src/
+│       └── App.js
+└── README.md
 
 ---
 
