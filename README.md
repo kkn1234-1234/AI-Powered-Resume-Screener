@@ -75,7 +75,7 @@ npm start
 - Upload resume PDFs.
 - Enter job description text.
 - Click "Match & Rank Resumes" to instantly see the best candidates!
-- 
+  
 ---
 
 ## 📷 Screenshots
