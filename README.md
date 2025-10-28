@@ -102,7 +102,6 @@ AI-Powered-Resume-Screener/
 ├── requirements.txt
 └── README.md
 
-text
 undefined
 
 ---
