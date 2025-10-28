@@ -55,10 +55,10 @@ _Set your actual PostgreSQL password in `app.py`, if needed._
 ### 3. Start the Backend
 
 set FLASK_APP=app.py
-set FLASK_ENV=development
-flask run
 
-text
+set FLASK_ENV=development
+
+flask run
 
 ### 4. Start the Frontend
 
@@ -74,7 +74,7 @@ text
 - Upload resume PDFs.
 - Enter job description text.
 - Click "Match & Rank Resumes" to instantly see the best candidates!
-
+- 
 ---
 
 ## 📷 Screenshots
@@ -97,7 +97,6 @@ AI-Powered-Resume-Screener/
 ├─ uploads/
 ├─ resume-screener-frontend/
 │ └─ src/App.js
-├─ requirements.txt (optional)
 └─ README.md
 
 
