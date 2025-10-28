@@ -63,10 +63,11 @@ flask run
 ### 4. Start the Frontend
 
 cd resume-screener-frontend
+
 npm install
+
 npm start
 
-text
 
 ### 5. Use the App
 
