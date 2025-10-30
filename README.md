@@ -93,14 +93,8 @@ npm start
 
 ## 📁 Project Structure
 
-AI-Powered-Resume-Screener/
-├── app.py
-├── uploads/
-├── resume-screener-frontend/
-│ └── src/
-│ └── App.js
-├── requirements.txt
-└── README.md
+<img width="294" height="202" alt="image" src="https://github.com/user-attachments/assets/47d13a99-c778-44b9-bf15-b975259f2068" />
+
 
 ---
 
